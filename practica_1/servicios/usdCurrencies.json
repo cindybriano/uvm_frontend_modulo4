@@ -1,0 +1,232 @@
+﻿[
+    {
+        "name":  "American Samoa",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Bahamas",
+        "currencies":  [
+                           {
+                               "code":  "BSD",
+                               "name":  "Bahamian dollar",
+                               "symbol":  "$"
+                           },
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "British Indian Ocean Territory",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "British Virgin Islands",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Cambodia",
+        "currencies":  [
+                           {
+                               "code":  "KHR",
+                               "name":  "Cambodian riel",
+                               "symbol":  "៛"
+                           },
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Caribbean Netherlands",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Ecuador",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "El Salvador",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Guam",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Marshall Islands",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Micronesia",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Northern Mariana Islands",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Palau",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Panama",
+        "currencies":  [
+                           {
+                               "code":  "PAB",
+                               "name":  "Panamanian balboa",
+                               "symbol":  "B/."
+                           },
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Puerto Rico",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Timor-Leste",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Turks and Caicos Islands",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "United States",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "United States Minor Outlying Islands",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "United States Virgin Islands",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           }
+                       ]
+    },
+    {
+        "name":  "Zimbabwe",
+        "currencies":  [
+                           {
+                               "code":  "USD",
+                               "name":  "United States dollar",
+                               "symbol":  "$"
+                           },
+                           {
+                               "code":  "ZWG",
+                               "name":  "Zimbabwe Gold",
+                               "symbol":  "ZiG"
+                           }
+                       ]
+    }
+]

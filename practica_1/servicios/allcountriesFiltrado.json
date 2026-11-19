@@ -1,0 +1,1785 @@
+﻿[
+    {
+        "name":  "Abkhazia",
+        "capital":  [
+                        "Sukhumi"
+                    ],
+        "flags":  ""
+    },
+    {
+        "name":  "Afghanistan",
+        "capital":  [
+                        "Kabul"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/af.png"
+    },
+    {
+        "name":  "Albania",
+        "capital":  [
+                        "Tirana"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/al.png"
+    },
+    {
+        "name":  "Algeria",
+        "capital":  [
+                        "Algiers"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/dz.png"
+    },
+    {
+        "name":  "American Samoa",
+        "capital":  [
+                        "Pago Pago"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/as.png"
+    },
+    {
+        "name":  "Andorra",
+        "capital":  [
+                        "Andorra la Vella"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ad.png"
+    },
+    {
+        "name":  "Angola",
+        "capital":  [
+                        "Luanda"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ao.png"
+    },
+    {
+        "name":  "Anguilla",
+        "capital":  [
+                        "The Valley"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ai.png"
+    },
+    {
+        "name":  "Antarctica",
+        "capital":  [
+
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/aq.png"
+    },
+    {
+        "name":  "Antigua and Barbuda",
+        "capital":  [
+                        "Saint John\u0027s"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ag.png"
+    },
+    {
+        "name":  "Argentina",
+        "capital":  [
+                        "Buenos Aires"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ar.png"
+    },
+    {
+        "name":  "Armenia",
+        "capital":  [
+                        "Yerevan"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/am.png"
+    },
+    {
+        "name":  "Aruba",
+        "capital":  [
+                        "Oranjestad"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/aw.png"
+    },
+    {
+        "name":  "Australia",
+        "capital":  [
+                        "Canberra"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/au.png"
+    },
+    {
+        "name":  "Austria",
+        "capital":  [
+                        "Vienna"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/at.png"
+    },
+    {
+        "name":  "Azerbaijan",
+        "capital":  [
+                        "Baku"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/az.png"
+    },
+    {
+        "name":  "Bahamas",
+        "capital":  [
+                        "Nassau"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bs.png"
+    },
+    {
+        "name":  "Bahrain",
+        "capital":  [
+                        "Manama"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bh.png"
+    },
+    {
+        "name":  "Bangladesh",
+        "capital":  [
+                        "Dhaka"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bd.png"
+    },
+    {
+        "name":  "Barbados",
+        "capital":  [
+                        "Bridgetown"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bb.png"
+    },
+    {
+        "name":  "Belarus",
+        "capital":  [
+                        "Minsk"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/by.png"
+    },
+    {
+        "name":  "Belgium",
+        "capital":  [
+                        "Brussels"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/be.png"
+    },
+    {
+        "name":  "Belize",
+        "capital":  [
+                        "Belmopan"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bz.png"
+    },
+    {
+        "name":  "Benin",
+        "capital":  [
+                        "Porto-Novo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bj.png"
+    },
+    {
+        "name":  "Bermuda",
+        "capital":  [
+                        "Hamilton"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bm.png"
+    },
+    {
+        "name":  "Bhutan",
+        "capital":  [
+                        "Thimphu"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bt.png"
+    },
+    {
+        "name":  "Bolivia",
+        "capital":  [
+                        "Sucre",
+                        "La Paz"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bo.png"
+    },
+    {
+        "name":  "Bosnia and Herzegovina",
+        "capital":  [
+                        "Sarajevo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ba.png"
+    },
+    {
+        "name":  "Botswana",
+        "capital":  [
+                        "Gaborone"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bw.png"
+    },
+    {
+        "name":  "Bouvet Island",
+        "capital":  [
+
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bv.png"
+    },
+    {
+        "name":  "Brazil",
+        "capital":  [
+                        "Brasília"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/br.png"
+    },
+    {
+        "name":  "British Indian Ocean Territory",
+        "capital":  [
+                        "Diego Garcia"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/io.png"
+    },
+    {
+        "name":  "British Virgin Islands",
+        "capital":  [
+                        "Road Town"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/vg.png"
+    },
+    {
+        "name":  "Brunei",
+        "capital":  [
+                        "Bandar Seri Begawan"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bn.png"
+    },
+    {
+        "name":  "Bulgaria",
+        "capital":  [
+                        "Sofia"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bg.png"
+    },
+    {
+        "name":  "Burkina Faso",
+        "capital":  [
+                        "Ouagadougou"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bf.png"
+    },
+    {
+        "name":  "Burundi",
+        "capital":  [
+                        "Gitega"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bi.png"
+    },
+    {
+        "name":  "Cabo Verde",
+        "capital":  [
+                        "Praia"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cv.png"
+    },
+    {
+        "name":  "Cambodia",
+        "capital":  [
+                        "Phnom Penh"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/kh.png"
+    },
+    {
+        "name":  "Cameroon",
+        "capital":  [
+                        "Yaoundé"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cm.png"
+    },
+    {
+        "name":  "Canada",
+        "capital":  [
+                        "Ottawa"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ca.png"
+    },
+    {
+        "name":  "Caribbean Netherlands",
+        "capital":  [
+                        "Kralendijk"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bq.png"
+    },
+    {
+        "name":  "Cayman Islands",
+        "capital":  [
+                        "George Town"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ky.png"
+    },
+    {
+        "name":  "Central African Republic",
+        "capital":  [
+                        "Bangui"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cf.png"
+    },
+    {
+        "name":  "Chad",
+        "capital":  [
+                        "N\u0027Djamena"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/td.png"
+    },
+    {
+        "name":  "Chile",
+        "capital":  [
+                        "Santiago"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cl.png"
+    },
+    {
+        "name":  "China",
+        "capital":  [
+                        "Beijing"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cn.png"
+    },
+    {
+        "name":  "Christmas Island",
+        "capital":  [
+                        "Flying Fish Cove"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cx.png"
+    },
+    {
+        "name":  "Cocos (Keeling) Islands",
+        "capital":  [
+                        "West Island"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cc.png"
+    },
+    {
+        "name":  "Colombia",
+        "capital":  [
+                        "Bogotá"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/co.png"
+    },
+    {
+        "name":  "Comoros",
+        "capital":  [
+                        "Moroni"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/km.png"
+    },
+    {
+        "name":  "Congo",
+        "capital":  [
+                        "Brazzaville"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cg.png"
+    },
+    {
+        "name":  "Cook Islands",
+        "capital":  [
+                        "Avarua"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ck.png"
+    },
+    {
+        "name":  "Costa Rica",
+        "capital":  [
+                        "San José"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cr.png"
+    },
+    {
+        "name":  "Croatia",
+        "capital":  [
+                        "Zagreb"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/hr.png"
+    },
+    {
+        "name":  "Cuba",
+        "capital":  [
+                        "Havana"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cu.png"
+    },
+    {
+        "name":  "Curaçao",
+        "capital":  [
+                        "Willemstad"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cw.png"
+    },
+    {
+        "name":  "Cyprus",
+        "capital":  [
+                        "Nicosia"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cy.png"
+    },
+    {
+        "name":  "Czechia",
+        "capital":  [
+                        "Prague"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cz.png"
+    },
+    {
+        "name":  "DRC",
+        "capital":  [
+                        "Kinshasa"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/cd.png"
+    },
+    {
+        "name":  "Denmark",
+        "capital":  [
+                        "Copenhagen"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/dk.png"
+    },
+    {
+        "name":  "Djibouti",
+        "capital":  [
+                        "Djibouti"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/dj.png"
+    },
+    {
+        "name":  "Dominica",
+        "capital":  [
+                        "Roseau"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/dm.png"
+    },
+    {
+        "name":  "Dominican Republic",
+        "capital":  [
+                        "Santo Domingo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/do.png"
+    },
+    {
+        "name":  "Ecuador",
+        "capital":  [
+                        "Quito"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ec.png"
+    },
+    {
+        "name":  "Egypt",
+        "capital":  [
+                        "Cairo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/eg.png"
+    },
+    {
+        "name":  "El Salvador",
+        "capital":  [
+                        "San Salvador"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sv.png"
+    },
+    {
+        "name":  "Equatorial Guinea",
+        "capital":  [
+                        "Malabo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gq.png"
+    },
+    {
+        "name":  "Eritrea",
+        "capital":  [
+                        "Asmara"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/er.png"
+    },
+    {
+        "name":  "Estonia",
+        "capital":  [
+                        "Tallinn"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ee.png"
+    },
+    {
+        "name":  "Eswatini",
+        "capital":  [
+                        "Mbabane",
+                        "Lobamba"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sz.png"
+    },
+    {
+        "name":  "Ethiopia",
+        "capital":  [
+                        "Addis Ababa"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/et.png"
+    },
+    {
+        "name":  "Falkland Islands",
+        "capital":  [
+                        "Stanley"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/fk.png"
+    },
+    {
+        "name":  "Faroe Islands",
+        "capital":  [
+                        "Tórshavn"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/fo.png"
+    },
+    {
+        "name":  "Fiji",
+        "capital":  [
+                        "Suva"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/fj.png"
+    },
+    {
+        "name":  "Finland",
+        "capital":  [
+                        "Helsinki"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/fi.png"
+    },
+    {
+        "name":  "France",
+        "capital":  [
+                        "Paris"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/fr.png"
+    },
+    {
+        "name":  "French Guiana",
+        "capital":  [
+                        "Cayenne"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gf.png"
+    },
+    {
+        "name":  "French Polynesia",
+        "capital":  [
+                        "Papeetē"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pf.png"
+    },
+    {
+        "name":  "French Southern and Antarctic Lands",
+        "capital":  [
+                        "Port-aux-Français"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tf.png"
+    },
+    {
+        "name":  "Gabon",
+        "capital":  [
+                        "Libreville"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ga.png"
+    },
+    {
+        "name":  "Gambia",
+        "capital":  [
+                        "Banjul"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gm.png"
+    },
+    {
+        "name":  "Georgia",
+        "capital":  [
+                        "Tbilisi"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ge.png"
+    },
+    {
+        "name":  "Germany",
+        "capital":  [
+                        "Berlin"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/de.png"
+    },
+    {
+        "name":  "Ghana",
+        "capital":  [
+                        "Accra"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gh.png"
+    },
+    {
+        "name":  "Gibraltar",
+        "capital":  [
+                        "Gibraltar"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gi.png"
+    },
+    {
+        "name":  "Greece",
+        "capital":  [
+                        "Athens"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gr.png"
+    },
+    {
+        "name":  "Greenland",
+        "capital":  [
+                        "Nuuk"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gl.png"
+    },
+    {
+        "name":  "Grenada",
+        "capital":  [
+                        "St. George\u0027s"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gd.png"
+    },
+    {
+        "name":  "Guadeloupe",
+        "capital":  [
+                        "Basse-Terre"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gp.png"
+    },
+    {
+        "name":  "Guam",
+        "capital":  [
+                        "Hagåtña"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gu.png"
+    },
+    {
+        "name":  "Guatemala",
+        "capital":  [
+                        "Guatemala City"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gt.png"
+    },
+    {
+        "name":  "Guernsey",
+        "capital":  [
+                        "St. Peter Port"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gg.png"
+    },
+    {
+        "name":  "Guinea",
+        "capital":  [
+                        "Conakry"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gn.png"
+    },
+    {
+        "name":  "Guinea-Bissau",
+        "capital":  [
+                        "Bissau"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gw.png"
+    },
+    {
+        "name":  "Guyana",
+        "capital":  [
+                        "Georgetown"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gy.png"
+    },
+    {
+        "name":  "Haiti",
+        "capital":  [
+                        "Port-au-Prince"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ht.png"
+    },
+    {
+        "name":  "Heard Island and McDonald Islands",
+        "capital":  [
+
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/hm.png"
+    },
+    {
+        "name":  "Honduras",
+        "capital":  [
+                        "Tegucigalpa"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/hn.png"
+    },
+    {
+        "name":  "Hong Kong",
+        "capital":  [
+                        "City of Victoria"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/hk.png"
+    },
+    {
+        "name":  "Hungary",
+        "capital":  [
+                        "Budapest"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/hu.png"
+    },
+    {
+        "name":  "Iceland",
+        "capital":  [
+                        "Reykjavik"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/is.png"
+    },
+    {
+        "name":  "India",
+        "capital":  [
+                        "New Delhi"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/in.png"
+    },
+    {
+        "name":  "Indonesia",
+        "capital":  [
+                        "Jakarta"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/id.png"
+    },
+    {
+        "name":  "Iran",
+        "capital":  [
+                        "Tehran"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ir.png"
+    },
+    {
+        "name":  "Iraq",
+        "capital":  [
+                        "Baghdad"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/iq.png"
+    },
+    {
+        "name":  "Ireland",
+        "capital":  [
+                        "Dublin"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ie.png"
+    },
+    {
+        "name":  "Isle of Man",
+        "capital":  [
+                        "Douglas"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/im.png"
+    },
+    {
+        "name":  "Israel",
+        "capital":  [
+                        "Jerusalem"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/il.png"
+    },
+    {
+        "name":  "Italy",
+        "capital":  [
+                        "Rome"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/it.png"
+    },
+    {
+        "name":  "Ivory Coast",
+        "capital":  [
+                        "Yamoussoukro"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ci.png"
+    },
+    {
+        "name":  "Jamaica",
+        "capital":  [
+                        "Kingston"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/jm.png"
+    },
+    {
+        "name":  "Japan",
+        "capital":  [
+                        "Tokyo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/jp.png"
+    },
+    {
+        "name":  "Jersey",
+        "capital":  [
+                        "Saint Helier"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/je.png"
+    },
+    {
+        "name":  "Jordan",
+        "capital":  [
+                        "Amman"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/jo.png"
+    },
+    {
+        "name":  "Kazakhstan",
+        "capital":  [
+                        "Astana"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/kz.png"
+    },
+    {
+        "name":  "Kenya",
+        "capital":  [
+                        "Nairobi"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ke.png"
+    },
+    {
+        "name":  "Kiribati",
+        "capital":  [
+                        "South Tarawa"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ki.png"
+    },
+    {
+        "name":  "Kosovo",
+        "capital":  [
+                        "Pristina"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/xk.png"
+    },
+    {
+        "name":  "Kuwait",
+        "capital":  [
+                        "Kuwait City"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/kw.png"
+    },
+    {
+        "name":  "Kyrgyzstan",
+        "capital":  [
+                        "Bishkek"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/kg.png"
+    },
+    {
+        "name":  "Laos",
+        "capital":  [
+                        "Vientiane"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/la.png"
+    },
+    {
+        "name":  "Latvia",
+        "capital":  [
+                        "Riga"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/lv.png"
+    },
+    {
+        "name":  "Lebanon",
+        "capital":  [
+                        "Beirut"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/lb.png"
+    },
+    {
+        "name":  "Lesotho",
+        "capital":  [
+                        "Maseru"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ls.png"
+    },
+    {
+        "name":  "Liberia",
+        "capital":  [
+                        "Monrovia"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/lr.png"
+    },
+    {
+        "name":  "Libya",
+        "capital":  [
+                        "Tripoli"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ly.png"
+    },
+    {
+        "name":  "Liechtenstein",
+        "capital":  [
+                        "Vaduz"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/li.png"
+    },
+    {
+        "name":  "Lithuania",
+        "capital":  [
+                        "Vilnius"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/lt.png"
+    },
+    {
+        "name":  "Luxembourg",
+        "capital":  [
+                        "Luxembourg"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/lu.png"
+    },
+    {
+        "name":  "Macau",
+        "capital":  [
+
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mo.png"
+    },
+    {
+        "name":  "Madagascar",
+        "capital":  [
+                        "Antananarivo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mg.png"
+    },
+    {
+        "name":  "Malawi",
+        "capital":  [
+                        "Lilongwe"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mw.png"
+    },
+    {
+        "name":  "Malaysia",
+        "capital":  [
+                        "Kuala Lumpur"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/my.png"
+    },
+    {
+        "name":  "Maldives",
+        "capital":  [
+                        "Malé"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mv.png"
+    },
+    {
+        "name":  "Mali",
+        "capital":  [
+                        "Bamako"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ml.png"
+    },
+    {
+        "name":  "Malta",
+        "capital":  [
+                        "Valletta"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mt.png"
+    },
+    {
+        "name":  "Marshall Islands",
+        "capital":  [
+                        "Majuro"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mh.png"
+    },
+    {
+        "name":  "Martinique",
+        "capital":  [
+                        "Fort-de-France"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mq.png"
+    },
+    {
+        "name":  "Mauritania",
+        "capital":  [
+                        "Nouakchott"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mr.png"
+    },
+    {
+        "name":  "Mauritius",
+        "capital":  [
+                        "Port Louis"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mu.png"
+    },
+    {
+        "name":  "Mayotte",
+        "capital":  [
+                        "Mamoudzou"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/yt.png"
+    },
+    {
+        "name":  "Mexico",
+        "capital":  [
+                        "Mexico City"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mx.png"
+    },
+    {
+        "name":  "Micronesia",
+        "capital":  [
+                        "Palikir"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/fm.png"
+    },
+    {
+        "name":  "Moldova",
+        "capital":  [
+                        "Chișinău"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/md.png"
+    },
+    {
+        "name":  "Monaco",
+        "capital":  [
+                        "Monaco"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mc.png"
+    },
+    {
+        "name":  "Mongolia",
+        "capital":  [
+                        "Ulan Bator"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mn.png"
+    },
+    {
+        "name":  "Montenegro",
+        "capital":  [
+                        "Podgorica"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/me.png"
+    },
+    {
+        "name":  "Montserrat",
+        "capital":  [
+                        "Plymouth"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ms.png"
+    },
+    {
+        "name":  "Morocco",
+        "capital":  [
+                        "Rabat"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ma.png"
+    },
+    {
+        "name":  "Mozambique",
+        "capital":  [
+                        "Maputo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mz.png"
+    },
+    {
+        "name":  "Myanmar",
+        "capital":  [
+                        "Naypyidaw"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mm.png"
+    },
+    {
+        "name":  "Namibia",
+        "capital":  [
+                        "Windhoek"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/na.png"
+    },
+    {
+        "name":  "Naoero",
+        "capital":  [
+                        "Yaren"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/nr.png"
+    },
+    {
+        "name":  "Nepal",
+        "capital":  [
+                        "Kathmandu"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/np.png"
+    },
+    {
+        "name":  "Netherlands",
+        "capital":  [
+                        "Amsterdam"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/nl.png"
+    },
+    {
+        "name":  "New Caledonia",
+        "capital":  [
+                        "Nouméa"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/nc.png"
+    },
+    {
+        "name":  "New Zealand",
+        "capital":  [
+                        "Wellington"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/nz.png"
+    },
+    {
+        "name":  "Nicaragua",
+        "capital":  [
+                        "Managua"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ni.png"
+    },
+    {
+        "name":  "Niger",
+        "capital":  [
+                        "Niamey"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ne.png"
+    },
+    {
+        "name":  "Nigeria",
+        "capital":  [
+                        "Abuja"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ng.png"
+    },
+    {
+        "name":  "Niue",
+        "capital":  [
+                        "Alofi"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/nu.png"
+    },
+    {
+        "name":  "Norfolk Island",
+        "capital":  [
+                        "Kingston"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/nf.png"
+    },
+    {
+        "name":  "North Korea",
+        "capital":  [
+                        "Pyongyang"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/kp.png"
+    },
+    {
+        "name":  "North Macedonia",
+        "capital":  [
+                        "Skopje"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mk.png"
+    },
+    {
+        "name":  "Northern Cyprus",
+        "capital":  [
+                        "North Nicosia"
+                    ],
+        "flags":  ""
+    },
+    {
+        "name":  "Northern Mariana Islands",
+        "capital":  [
+                        "Saipan"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mp.png"
+    },
+    {
+        "name":  "Norway",
+        "capital":  [
+                        "Oslo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/no.png"
+    },
+    {
+        "name":  "Oman",
+        "capital":  [
+                        "Muscat"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/om.png"
+    },
+    {
+        "name":  "Pakistan",
+        "capital":  [
+                        "Islamabad"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pk.png"
+    },
+    {
+        "name":  "Palau",
+        "capital":  [
+                        "Ngerulmud"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pw.png"
+    },
+    {
+        "name":  "Palestine",
+        "capital":  [
+                        "Ramallah",
+                        "Jerusalem"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ps.png"
+    },
+    {
+        "name":  "Panama",
+        "capital":  [
+                        "Panama City"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pa.png"
+    },
+    {
+        "name":  "Papua New Guinea",
+        "capital":  [
+                        "Port Moresby"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pg.png"
+    },
+    {
+        "name":  "Paraguay",
+        "capital":  [
+                        "Asunción"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/py.png"
+    },
+    {
+        "name":  "Peru",
+        "capital":  [
+                        "Lima"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pe.png"
+    },
+    {
+        "name":  "Philippines",
+        "capital":  [
+                        "Manila"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ph.png"
+    },
+    {
+        "name":  "Pitcairn Islands",
+        "capital":  [
+                        "Adamstown"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pn.png"
+    },
+    {
+        "name":  "Poland",
+        "capital":  [
+                        "Warsaw"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pl.png"
+    },
+    {
+        "name":  "Portugal",
+        "capital":  [
+                        "Lisbon"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pt.png"
+    },
+    {
+        "name":  "Puerto Rico",
+        "capital":  [
+                        "San Juan"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pr.png"
+    },
+    {
+        "name":  "Qatar",
+        "capital":  [
+                        "Doha"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/qa.png"
+    },
+    {
+        "name":  "Romania",
+        "capital":  [
+                        "Bucharest"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ro.png"
+    },
+    {
+        "name":  "Russia",
+        "capital":  [
+                        "Moscow"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ru.png"
+    },
+    {
+        "name":  "Rwanda",
+        "capital":  [
+                        "Kigali"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/rw.png"
+    },
+    {
+        "name":  "Réunion",
+        "capital":  [
+                        "Saint-Denis"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/re.png"
+    },
+    {
+        "name":  "Saint Barthélemy",
+        "capital":  [
+                        "Gustavia"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/bl.png"
+    },
+    {
+        "name":  "Saint Helena, Ascension and Tristan da Cunha",
+        "capital":  [
+                        "Jamestown"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sh.png"
+    },
+    {
+        "name":  "Saint Kitts and Nevis",
+        "capital":  [
+                        "Basseterre"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/kn.png"
+    },
+    {
+        "name":  "Saint Lucia",
+        "capital":  [
+                        "Castries"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/lc.png"
+    },
+    {
+        "name":  "Saint Martin",
+        "capital":  [
+                        "Marigot"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/mf.png"
+    },
+    {
+        "name":  "Saint Pierre and Miquelon",
+        "capital":  [
+                        "Saint-Pierre"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/pm.png"
+    },
+    {
+        "name":  "Saint Vincent and the Grenadines",
+        "capital":  [
+                        "Kingstown"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/vc.png"
+    },
+    {
+        "name":  "Samoa",
+        "capital":  [
+                        "Apia"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ws.png"
+    },
+    {
+        "name":  "San Marino",
+        "capital":  [
+                        "City of San Marino"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sm.png"
+    },
+    {
+        "name":  "Saudi Arabia",
+        "capital":  [
+                        "Riyadh"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sa.png"
+    },
+    {
+        "name":  "Senegal",
+        "capital":  [
+                        "Dakar"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sn.png"
+    },
+    {
+        "name":  "Serbia",
+        "capital":  [
+                        "Belgrade"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/rs.png"
+    },
+    {
+        "name":  "Seychelles",
+        "capital":  [
+                        "Victoria"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sc.png"
+    },
+    {
+        "name":  "Sierra Leone",
+        "capital":  [
+                        "Freetown"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sl.png"
+    },
+    {
+        "name":  "Singapore",
+        "capital":  [
+                        "Singapore"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sg.png"
+    },
+    {
+        "name":  "Sint Maarten",
+        "capital":  [
+                        "Philipsburg"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sx.png"
+    },
+    {
+        "name":  "Slovakia",
+        "capital":  [
+                        "Bratislava"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sk.png"
+    },
+    {
+        "name":  "Slovenia",
+        "capital":  [
+                        "Ljubljana"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/si.png"
+    },
+    {
+        "name":  "Solomon Islands",
+        "capital":  [
+                        "Honiara"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sb.png"
+    },
+    {
+        "name":  "Somalia",
+        "capital":  [
+                        "Mogadishu"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/so.png"
+    },
+    {
+        "name":  "Somaliland",
+        "capital":  [
+                        "Hargeisa"
+                    ],
+        "flags":  ""
+    },
+    {
+        "name":  "South Africa",
+        "capital":  [
+                        "Pretoria",
+                        "Cape Town",
+                        "Bloemfontein"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/za.png"
+    },
+    {
+        "name":  "South Georgia",
+        "capital":  [
+                        "King Edward Point"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gs.png"
+    },
+    {
+        "name":  "South Korea",
+        "capital":  [
+                        "Seoul"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/kr.png"
+    },
+    {
+        "name":  "South Ossetia",
+        "capital":  [
+                        "Tskhinvali"
+                    ],
+        "flags":  ""
+    },
+    {
+        "name":  "South Sudan",
+        "capital":  [
+                        "Juba"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ss.png"
+    },
+    {
+        "name":  "Spain",
+        "capital":  [
+                        "Madrid"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/es.png"
+    },
+    {
+        "name":  "Sri Lanka",
+        "capital":  [
+                        "Sri Jayawardenepura Kotte"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/lk.png"
+    },
+    {
+        "name":  "Sudan",
+        "capital":  [
+                        "Khartoum"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sd.png"
+    },
+    {
+        "name":  "Suriname",
+        "capital":  [
+                        "Paramaribo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sr.png"
+    },
+    {
+        "name":  "Svalbard and Jan Mayen",
+        "capital":  [
+                        "Longyearbyen"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sj.png"
+    },
+    {
+        "name":  "Sweden",
+        "capital":  [
+                        "Stockholm"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/se.png"
+    },
+    {
+        "name":  "Switzerland",
+        "capital":  [
+                        "Bern"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ch.png"
+    },
+    {
+        "name":  "Syria",
+        "capital":  [
+                        "Damascus"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/sy.png"
+    },
+    {
+        "name":  "São Tomé and Príncipe",
+        "capital":  [
+                        "São Tomé"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/st.png"
+    },
+    {
+        "name":  "Taiwan",
+        "capital":  [
+                        "Taipei"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tw.png"
+    },
+    {
+        "name":  "Tajikistan",
+        "capital":  [
+                        "Dushanbe"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tj.png"
+    },
+    {
+        "name":  "Tanzania",
+        "capital":  [
+                        "Dodoma"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tz.png"
+    },
+    {
+        "name":  "Thailand",
+        "capital":  [
+                        "Bangkok"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/th.png"
+    },
+    {
+        "name":  "Timor-Leste",
+        "capital":  [
+                        "Dili"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tl.png"
+    },
+    {
+        "name":  "Togo",
+        "capital":  [
+                        "Lomé"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tg.png"
+    },
+    {
+        "name":  "Tokelau",
+        "capital":  [
+                        "Fakaofo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tk.png"
+    },
+    {
+        "name":  "Tonga",
+        "capital":  [
+                        "Nuku\u0027alofa"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/to.png"
+    },
+    {
+        "name":  "Trinidad and Tobago",
+        "capital":  [
+                        "Port of Spain"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tt.png"
+    },
+    {
+        "name":  "Tunisia",
+        "capital":  [
+                        "Tunis"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tn.png"
+    },
+    {
+        "name":  "Turkey",
+        "capital":  [
+                        "Ankara"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tr.png"
+    },
+    {
+        "name":  "Turkmenistan",
+        "capital":  [
+                        "Ashgabat"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tm.png"
+    },
+    {
+        "name":  "Turks and Caicos Islands",
+        "capital":  [
+                        "Cockburn Town"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tc.png"
+    },
+    {
+        "name":  "Tuvalu",
+        "capital":  [
+                        "Funafuti"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/tv.png"
+    },
+    {
+        "name":  "Uganda",
+        "capital":  [
+                        "Kampala"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ug.png"
+    },
+    {
+        "name":  "Ukraine",
+        "capital":  [
+                        "Kyiv"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ua.png"
+    },
+    {
+        "name":  "United Arab Emirates",
+        "capital":  [
+                        "Abu Dhabi"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ae.png"
+    },
+    {
+        "name":  "United Kingdom",
+        "capital":  [
+                        "London"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/gb.png"
+    },
+    {
+        "name":  "United States",
+        "capital":  [
+                        "Washington, D.C."
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/us.png"
+    },
+    {
+        "name":  "United States Minor Outlying Islands",
+        "capital":  [
+
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/um.png"
+    },
+    {
+        "name":  "United States Virgin Islands",
+        "capital":  [
+                        "Charlotte Amalie"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/vi.png"
+    },
+    {
+        "name":  "Uruguay",
+        "capital":  [
+                        "Montevideo"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/uy.png"
+    },
+    {
+        "name":  "Uzbekistan",
+        "capital":  [
+                        "Tashkent"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/uz.png"
+    },
+    {
+        "name":  "Vanuatu",
+        "capital":  [
+                        "Port Vila"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/vu.png"
+    },
+    {
+        "name":  "Vatican City",
+        "capital":  [
+                        "Vatican City"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/va.png"
+    },
+    {
+        "name":  "Venezuela",
+        "capital":  [
+                        "Caracas"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ve.png"
+    },
+    {
+        "name":  "Vietnam",
+        "capital":  [
+                        "Hanoi"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/vn.png"
+    },
+    {
+        "name":  "Wallis and Futuna",
+        "capital":  [
+                        "Mata-Utu"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/wf.png"
+    },
+    {
+        "name":  "Western Sahara",
+        "capital":  [
+                        "El Aaiún"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/eh.png"
+    },
+    {
+        "name":  "Yemen",
+        "capital":  [
+                        "Sana\u0027a"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ye.png"
+    },
+    {
+        "name":  "Zambia",
+        "capital":  [
+                        "Lusaka"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/zm.png"
+    },
+    {
+        "name":  "Zimbabwe",
+        "capital":  [
+                        "Harare"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/zw.png"
+    },
+    {
+        "name":  "Åland Islands",
+        "capital":  [
+                        "Mariehamn"
+                    ],
+        "flags":  "https://flags.restcountries.com/v5/w640/ax.png"
+    }
+]
