@@ -1,0 +1,1 @@
+{"name":"proyecto-final-clima","version":"1.0.0","private":true,"scripts":{"start":"node app.js"},"engines":{"node":"22.x"},"dependencies":{"express":"^4.21.2","dotenv":"^16.4.7"}}
